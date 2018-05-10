@@ -7,3 +7,9 @@ body {
     width: 100%;
     max-width: 960px;
 }
+
+#googleMapConteiner{
+    align-content: center;
+    width: 100%;
+    height: 500px;
+}
